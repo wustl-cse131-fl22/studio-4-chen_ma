@@ -35,7 +35,7 @@ public class Flag {
 		StdDraw.setPenColor(Color.PINK);
 		Font font = new Font("Arial", Font.BOLD, 60);
    	    StdDraw.setFont(font);
-		StdDraw.text(400, 400, "Straykids");
+		StdDraw.text(400, 400, "CM");
 		
 	}
 }
